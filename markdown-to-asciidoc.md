@@ -15,7 +15,7 @@
 | Ordered List | <pre>1. one<br>1. two<br>1. three</pre> | <pre>. one<br>. two<br>. three</pre> |
 | Unordered List | <pre>- one<br>- two<br>- three</pre> | <pre>* one<br>* two<br>* three</pre> |
 | Task/Check List | <pre>- [ ] task a<br>- [x] task b<br>- [ ] task c</pre> | <pre>* [ ] task a<br>* [x] task b<br>* [ ] task c</pre> |
-| Images:<br>- Inline <br>- Block | <br>`![alt text](url)`<br>`![alt text](url)` (new line above and below)  | <br>`image:url[alt text]`<br>`image::url[alt text]` |
+| Images:<br>- Inline <br>- Block | <br>`![alt text](url)`<br>`![alt text](url)` *<br> * <sub>(new line above and below)</sub> | <br>`image:url[alt text]`<br>`image::url[alt text]` |
 
 ---
 
